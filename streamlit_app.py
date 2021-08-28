@@ -1,6 +1,4 @@
 import streamlit as st
-PAGE_CONFIG = {"page_title":"StColab.io","page_icon":":smiley:","layout":"centered"}
-st.beta_set_page_config(**PAGE_CONFIG)
 def main():
 	st.title("Awesome Streamlit for ML")
 	st.subheader("How to run streamlit from colab")
