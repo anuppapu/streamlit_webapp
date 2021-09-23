@@ -4,3 +4,4 @@ pandas_profiling==3.0.0
 streamlit-pandas-profiling==0.1.2
 streamlit-aggrid==0.2.1
 xlrd==1.2.0
+openpyxl==3.0.4
